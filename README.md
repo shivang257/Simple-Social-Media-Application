@@ -1,1 +1,1 @@
-Link to the template files: https://github.com/tomitokko/django-social-media-template
+A Simple Social Media App With Unfollow and follow feature.
